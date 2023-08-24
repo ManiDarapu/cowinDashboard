@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.div1{
+    display: flex; justify-content: center; align-items: center; width: 100vw; height: 100vh;
+}
+.div2{
+display: flex; justify-content: center; align-items: center; width: 70%; height: 90%;
+ background-color: black; flex-direction: column; color: white;
+}
+.div3{
+    display: flex; 
+}
+.logo{
+    width: 60px; height: 75px; padding-top: 16px; margin-right: 10px;
+}
